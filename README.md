@@ -47,7 +47,7 @@
                <br>
 <h3 align="center">Proyecto PHP (en curso)</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="PHP_Logo.png" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="javascript_logo.jpg" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
@@ -68,10 +68,10 @@
 <td width="50%">
 <h3 align="center">Curso Android Intermedio</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="javascript_logo.jpg" width="400" alt="Curso intermedio Android"></a>
+<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="PHP_Logo.png" width="400" alt="Curso intermedio Android"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=6082BB">
 </a>
 <a href="https://youtu.be/UaR7GSNACsM" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
@@ -88,7 +88,7 @@
 <a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="PHP_Logo.png" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=6082BB">
 </a>
 <a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
