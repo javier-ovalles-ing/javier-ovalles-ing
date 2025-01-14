@@ -30,6 +30,16 @@
 <h3 align="center">Proyecto de Javascript (en progreso)</h3>
 <div align="center">
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="javascript_logo.jpg" width="400" alt="Curso básico android"></a>
+  <p><strong>Stack del proyecto</strong></p>
+  <p>
+     <img src="https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript&color=black"/>
+     <img src="https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=MongoDB&color=%20black"/>
+     <img src="https://img.shields.io/badge/Nextjs-black?style=flat-square&logo=next.js&color=%20black"/>
+     <img src="https://img.shields.io/badge/graphQL-pink?style=flat-square&logo=graphQL&logoColor=pink&color=black"/>
+     <img src="https://img.shields.io/badge/graphQL-black?style=flat-square&logo=express&logoColor=%20"/>
+     <img src="https://img.shields.io/badge/tailwind-black?style=flat-square&logo=tailwind%20css&logoColor=%20"/>
+     <img src="https://img.shields.io/badge/Java-Developer-red?logo=java&logoColor=white"/>
+  </p>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
