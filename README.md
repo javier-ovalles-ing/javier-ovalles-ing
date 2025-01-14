@@ -45,7 +45,7 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">Proyecto PHP (en curso)</h3>
 <div align="center">                                       
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="PHP_Logo.png" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
