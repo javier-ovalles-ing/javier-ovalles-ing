@@ -22,12 +22,22 @@ que resuelven problemas reales con código limpio y arquitecturas bien diseñada
 <ul>
   <li>Desarrollo de aplicaciones web (HTML, CSS, JavaScript, React, Node.js, etc.)</li>
   <li>Diseño de arquitecturas de software escalables</li>
-  <li>Implementación de API RESTful y GraphQL</li>
+  <li>Implementación de API RESTful </li>
   <li>Metodologías Ágiles (Scrum, Kanban)</li>
   <li>Optimización de rendimiento y escalabilidad</li>
   <li>Trabajo colaborativo en equipos multidisciplinarios</li>  
+  <li>Uso de Prompt Engineering y agentes de IA para productividad</li>
 </ul>
 
+<br>
+
+## 🛠️ Stack Tecnológico
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,postgres,prisma,tailwind&perline=9" alt="Mi stack tecnológico" />
+</div>
+<p align="center">
+  Actualmente trabajando con <strong>TypeScript + React + Node.js + PostgreSQL + Prisma + Tailwind</strong>
+</p>
 <br>
 
 ## Proyectos *bombitas*
