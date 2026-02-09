@@ -9,25 +9,18 @@
 </br>
 <h1>Hola, soy <a href="https://www.linkedin.com/in/javierodev/">Javier Ovalles</a> 👋</h1>
 
-Desarrollador de software enfocado en **soluciones eficientes y escalables**. 
-Utilizo prácticas de desarrollo de vanguardia y metodologías ágiles para 
-aportar valor continuo y asegurar la calidad de cada proyecto.
-
-🎯 Especializado en desarrollo fullstack, creando aplicaciones web robustas 
-que resuelven problemas reales con código limpio y arquitecturas bien diseñadas.
+💻 Desarrollador de software | 🌎 República Dominicana  
+📚 Aprendiendo y construyendo proyectos con JavaScript y React
 
 </br>
 <h1>Acerca de mi: </h1>
 
-<ul>
-  <li>Desarrollo de aplicaciones web (HTML, CSS, JavaScript, React, Node.js, etc.)</li>
-  <li>Diseño de arquitecturas de software escalables</li>
-  <li>Implementación de API RESTful </li>
-  <li>Metodologías Ágiles (Scrum, Kanban)</li>
-  <li>Optimización de rendimiento y escalabilidad</li>
-  <li>Trabajo colaborativo en equipos multidisciplinarios</li>  
-  <li>Uso de Prompt Engineering y agentes de IA para productividad</li>
-</ul>
+Desarrollador full stack especializado en crear aplicaciones web escalables 
+con React, Node.js y API RESTful. Trabajo con metodologías ágiles (Scrum/Kanban) 
+y aprovecho herramientas de IA para optimizar mi desarrollo.
+
+Me enfoco en diseñar arquitecturas robustas, mejorar el rendimiento y colaborar 
+efectivamente en equipos multidisciplinarios para entregar soluciones de valor.
 
 <br>
 
@@ -40,132 +33,97 @@ que resuelven problemas reales con código limpio y arquitecturas bien diseñada
 </p>
 <br>
 
-## Proyectos *bombitas*
+## 💼 Proyectos Destacados
+
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Proyecto de Javascript (en progreso)</h3>
+<h3 align="center">Task Manager Full Stack</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="javascript_logo.jpg" width="400" alt="Curso básico android"></a>
-  <p><strong>Stack del proyecto</strong></p>
-  <p>
-     <img src="https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript&color=black"/>
-     <img src="https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=MongoDB&color=%20black"/>
-     <img src="https://img.shields.io/badge/Nextjs-black?style=flat-square&logo=next.js&color=%20black"/>
-     <img src="https://img.shields.io/badge/graphQL-pink?style=flat-square&logo=graphQL&logoColor=pink&color=black"/>
-     <img src="https://img.shields.io/badge/graphQL-black?style=flat-square&logo=express&logoColor=%20"/>
-     <img src="https://img.shields.io/badge/tailwind-black?style=flat-square&logo=tailwind%20css&logoColor=%20"/>
-     <img src="https://img.shields.io/badge/Java-Developer-red?logo=java&logoColor=white"/>
-  </p>
+<a href="https://github.com/TU_USERNAME" target="_blank"><img src="javascript_logo.jpg" width="400" alt="Task Manager"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="https://github.com/TU_USERNAME" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+<a href="https://github.com/TU_USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/-DEMO-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
-</div>
-                                                                                      
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+<p>Aplicación full stack de gestión de tareas con autenticación JWT, CRUD completo y UI moderna. Implementa arquitectura RESTful y gestión de estado eficiente.</p>
+</div>                                                                                      
 </td>
 
 <td width="50%">
-               <br>
-<h3 align="center">Proyecto PHP (en curso)</h3>
+<h3 align="center">E-Commerce API</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="javascript_logo.jpg" width="400" alt="Curso arquitectura MVVM"></a>
-<br>
+<a href="https://github.com/TU_USERNAME" target="_blank"><img src="javascript_logo.jpg" width="400" alt="E-Commerce API"></a>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black&color=6082BB">
+<a href="https://github.com/TU_USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f&color=6082BB">
+<a href="https://github.com/TU_USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/-DEMO-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+<p>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+<p>API RESTful robusta para e-commerce con TypeScript, validación de datos, manejo de errores y documentación Swagger. Incluye integración con Stripe.</p>
 </div>                                                             
-</table>                                                                                 
-</div>
-<br>
-
-<table>
+</td>
+</tr>
+      
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Intermedio</h3>
+<h3 align="center">Portfolio Dashboard</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="PHP_Logo.png" width="400" alt="Curso intermedio Android"></a>
+<a href="https://github.com/TU_USERNAME" target="_blank"><img src="javascript_logo.jpg" width="400" alt="Portfolio Dashboard"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=6082BB">
-</a>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
-</p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
-</div>
-                                                                                      
-</td>       
-
-<td width="50%">
-<h3 align="center">Curso Kotlin Multiplatform</h3>
-<div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="PHP_Logo.png" width="400" alt="Curso Kotlin Multiplatform"></a>
-<p>
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=6082BB">
-</a>
-<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
-</a>
-</p>
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
-</div>
-                                                                                      
-</td>  
-</table>                                                                                 
-</div>
-<br>
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Curso Android Intermedio</h3>
-<div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="cshap_logo.png" width="400" alt="Curso intermedio Android"></a>
-<p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
+<a href="https://github.com/TU_USERNAME" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+<a href="https://github.com/TU_USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/-DEMO-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
+</p>
+<p>Dashboard interactivo con Next.js 14, Server Components y App Router. Diseño responsive con Tailwind CSS y optimización de rendimiento.</p>
 </div>
-                                                                                      
-</td>       
+</td>
 
 <td width="50%">
-<h3 align="center">Curso Kotlin Multiplatform</h3>
+<h3 align="center">Real-Time Chat App</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="cshap_logo.png" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a href="https://github.com/TU_USERNAME" target="_blank"><img src="javascript_logo.jpg" width="400" alt="Chat App"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/TU_USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+<a href="https://github.com/TU_USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/-DEMO-green?style=for-the-badge&color=ff00f4">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+<p>
+<img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+</p>
+<p>Aplicación de mensajería en tiempo real con WebSockets (Socket.io), salas privadas y notificaciones push. Arquitectura escalable y eficiente.</p>
 </div>
-                                                                                      
-</td>  
-</table>                                                                                 
-</div>
+</td>
+</tr>
+</table>
 <br>
 
 ### ⚙️ &nbsp;GitHub Analytics
