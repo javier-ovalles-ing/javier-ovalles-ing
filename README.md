@@ -136,6 +136,31 @@ efectivamente en equipos multidisciplinarios para entregar soluciones de valor.
 </p>
 
 
+## 📫 Conectemos
+
+¿Tienes un proyecto interesante o quieres colaborar? ¡Hablemos!
+
+<div align="center">
+
+| Plataforma | Link |
+|------------|------|
+| 💼 **LinkedIn** | [linkedin.com/in/javierodev](https://www.linkedin.com/in/javierodev/) |
+| 🌐 **Portfolio** | [www.javieroovalles.com](https://www.javieroovalles.com) |
+| 📧 **Email** | [contacto@javieroovalles.com](mailto:javier.ovalles.ing@gmail.com) |
+| 🐦 **Twitter/X** | [@javierodev](https://x.com/JavierOval26723) |
+
+</div>
+
+<div align="center">
+
+---
+
+**💡 Abierto a oportunidades de colaboración y proyectos interesantes**
+
+![Visitors](https://komarev.com/ghpvc/?username=javier-ovalles-ing&label=Visitas%20al%20perfil&color=0e75b6&style=flat)
+
+</div>
+
 <!--
 **javier-ovalles-ing/javier-ovalles-ing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
